@@ -1,3 +1,12 @@
+#   |                                                          |
+# --+----------------------------------------------------------+--
+#   |   Code by : ishanlagrawal                                |
+#   |   Email   : ishan.agrawal77@gmail.com                    |
+#   |   Github  : https://github.com/ishanlagrawal             |
+# --+----------------------------------------------------------+--  
+#   |        all posts #ishanlagrawal ,all views my own.       |
+# --+----------------------------------------------------------+--
+#   |                                                          |
 
 ## pip install pymupdf
 
