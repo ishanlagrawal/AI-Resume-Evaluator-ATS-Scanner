@@ -1,3 +1,24 @@
+# Resume ATS Scanner — Gemini Pro
+
+Upload a resume PDF and job description. Get an ATS score, keyword gaps, and improvement suggestions.
+
+## What it does
+- Upload resume (PDF) + paste job description
+- Gemini Pro scores keyword match (0-100)
+- Lists missing HIGH/MEDIUM/LOW priority keywords
+- Suggests specific rewrites using only real resume content
+
+## Tech Stack
+Python · Google Gemini Pro · PyPDF2 · Streamlit
+
+## Run locally
+pip install -r requirements.txt
+streamlit run app.py
+
+## Built by
+Ishan Agrawal — linkedin.com/in/ishanagrawal07
+
+-------------------------------------------------------------------------------------------------------------------------------------
 GenAI App -> AI Resume Evaluator & ATS Scanner
 
 Sample Use Cases:
